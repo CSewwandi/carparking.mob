@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683442076958",
+    "project_id": "park-me-8e6ee",
+    "storage_bucket": "park-me-8e6ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683442076958:android:55ddd4429c9d2160bd1d0f",
+        "android_client_info": {
+          "package_name": "com.example.parkme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKNEFF5umW7kqU3RWO2tx5HnejzkZzR8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
